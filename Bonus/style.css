@@ -65,8 +65,8 @@ img{
 
 /*PARTE RESPONSIVE*/
 
-/*************FROM 780px TO 1079px*************/
-@media (max-width:1079px) {
+/*************FROM 780px TO 1080px*************/
+@media (max-width:1080px) {
   .row {
     width: 100%;
   }
@@ -95,8 +95,8 @@ img{
 
 }
   
-/*************FROM 420px TO 779px*************/
-@media (max-width:779px) {
+/*************FROM 420px TO 780px*************/
+@media (max-width:780px) {
 
   * {
     margin: 0;
@@ -167,8 +167,8 @@ img{
     
 }
 
-/*************FROM 0px TO 419px*************/
-@media (max-width:419px) {
+/*************FROM 0px TO 420px*************/
+@media (max-width:420px) {
 
   body {
     font-size: 10px;
