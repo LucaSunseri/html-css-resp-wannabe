@@ -74,6 +74,10 @@ img{
     font-size: 10px;
   }
 
+  h3 {
+    font-size: 12px;
+  }
+
   /* BLOCCO LEZIONI */
   .row {
     width: 100%;
